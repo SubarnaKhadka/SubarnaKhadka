@@ -4,4 +4,5 @@
   <div align="center">
 <img src="https://github.com/SubarnaKhadka/SubarnaKhadka/blob/main/profile.png">
 </div>
-<br>
+<div>
+<h2 align="center"> 📢  ~ 𝓐𝓫𝓸𝓾𝓽 𝓶𝓮 ~ 📢  </h2>

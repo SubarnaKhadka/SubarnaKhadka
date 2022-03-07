@@ -21,9 +21,18 @@
   <h3>𝐼 𝒽𝒶𝓋𝑒 𝓂𝒶𝒹𝑒 𝓂𝒶𝓃𝓎 𝓌𝑒𝒷𝓈𝒾𝓉𝑒𝓈 𝒶𝓃𝒹 𝓌𝑒𝒷𝒶𝓅𝓅𝓈 𝓊𝓈𝒾𝓃𝑔 𝒹𝒾𝒻𝒻𝑒𝓇𝑒𝓃𝓉 𝓉𝑜𝑜𝓁𝓈 𝓁𝒾𝓀𝑒 𝓇𝑒𝒶𝒸𝓉, 𝓋𝓊𝑒 𝑒𝓉𝒸 </h3>
   <h3> 𝓝𝓸𝓽 𝓸𝓷𝓵𝔂 𝔀𝓮𝓫𝓪𝓹𝓹𝓼, 𝓲 𝓫𝓾𝓲𝓵𝓽 𝓶𝓪𝓷𝔂 𝓪𝓷𝓭𝓻𝓸𝓲𝓭 𝓪𝓹𝓹𝓼.</h3>
   <div>
-  <img  align ="right" src= "https://github.com/SubarnaKhadka/SubarnaKhadka/blob/main/appstore.png" width = "200px" height="200px" >
-  <h2> 𝐼𝓂𝑔𝒞𝓇𝑜𝓅𝓅𝑒𝓇 𝒾𝓈  𝓂𝓎 𝒾𝓂𝒶𝑔𝑒 𝒸𝑜𝓂𝓅𝓇𝑒𝓈𝓈𝑜𝓇 𝒜𝓅𝓅 𝑀𝒶𝒹𝑒 𝓊𝓈𝒾𝓃𝑔 𝒻𝓁𝓊𝓉𝓉𝑒r</h2>
-    <h3 align = "center"> <a href="https://play.google.com/store/apps/details?id=com.technicalcreation.imgcropper&hl=en&gl=US" >𝐿𝒾𝓃𝓀 𝓉𝑜 𝓂𝓎 𝒻𝓁𝓊𝓉𝓉𝑒𝓇 𝒶𝓅𝓅: 𝐼𝓂𝑔𝒞𝓇𝑜𝓅𝓅𝑒𝓇 </a> </h3>
+  <img  src= "https://github.com/SubarnaKhadka/SubarnaKhadka/blob/main/appstore.png" width = "120px" height="120px" >
+  <h2> 𝐼𝓂𝑔𝒞𝓇𝑜𝓅𝓅𝑒𝓇 𝒾𝓈  𝓂𝓎 𝒾𝓂𝒶𝑔𝑒 𝒸𝑜𝓂𝓅𝓇𝑒𝓈𝓈𝑜𝓇 𝒜𝓅𝓅 𝑀𝒶𝒹𝑒 𝓊𝓈𝒾𝓃𝑔 𝒻𝓁𝓊𝓉𝓉𝑒r
+<a href="https://play.google.com/store/apps/details?id=com.technicalcreation.imgcropper&hl=en&gl=US" > 𝓂𝓎 𝒻𝓁𝓊𝓉𝓉𝑒𝓇 𝒶𝓅𝓅: 𝐼𝓂𝑔𝒞𝓇𝑜𝓅𝓅𝑒𝓇 </a>
+    </h2>
   </div>
   <br>
-  
+  <h2 align="left">𝓝𝓸𝔀𝓪𝓭𝓪𝔂𝓼:</h2>
+  <h2>𝐼𝓃 𝐿𝑜𝓋𝑒💖 𝔀𝓲𝓽𝓱 𝓡𝓮𝓪𝓬t <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> 𝓐𝓷𝓭 𝓕𝓵𝓾𝓽𝓽𝓮𝓻 <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a></h2> 
+  <br>
+  <h2 align="left">𝒞𝑜𝓃𝓃𝑒𝒸𝓉 𝓌𝒾𝓉𝒽 𝓂𝑒:</h2>
+<p align="left">
+  <a href="https://linkedin.com/in/subarnakhadka" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="subarnakhadka" height="40" width="60" /></a>
+<a href="https://discord.gg/9507" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="9507" height="40" width="60" /></a>
+</p>
+

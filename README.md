@@ -7,7 +7,7 @@
    <br/>
 
 
-<h1 align="left"> ~ My Skill set ~ </h1> 
+<h1 align="left"> ~ My Skill Set ~ </h1> 
 <table><tr><td valign="top" width="40%">
 
 ### Frontend  

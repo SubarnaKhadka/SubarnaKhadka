@@ -7,7 +7,7 @@
    <br/>
 
 
-<h1 align="left"> ~ My Skill Set ~ </h1> 
+<h1 align="left"> ~ Language and tools ~ </h1> 
 <table><tr><td valign="top" width="40%">
 
 ### Frontend  
@@ -51,9 +51,9 @@
   
 </div>
 <br/>
-  <img src="https://github-readme-stats.vercel.app/api?username=SubarnaKhadka&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="220" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=SubarnaKhadka&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=false" height="220" alt="stats graph"  />
 
- <img src="https://github-readme-stats.vercel.app/api/top-langs?username=SubarnaKhadka&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="220" alt="languages graph"  />
+ <img src="https://github-readme-stats.vercel.app/api/top-langs?username=SubarnaKhadka&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=false" height="220" alt="languages graph"  />
 
   <h2 align="left">Connect with me :</h2>
 <p align="left">

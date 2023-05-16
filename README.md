@@ -54,10 +54,3 @@
   <img src="https://github-readme-stats.vercel.app/api?username=SubarnaKhadka&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=false" height="220" alt="stats graph"  />
 
  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=SubarnaKhadka&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=false" height="220" alt="languages graph"  />
-
-  <h2 align="left">Connect with me :</h2>
-<p align="left">
-  <a href="https://linkedin.com/in/subarnakhadka" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="subarnakhadka" height="40" width="60" /></a>
-<a href="https://discord.gg/9507" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="9507" height="40" width="60" /></a>
-</p>
-

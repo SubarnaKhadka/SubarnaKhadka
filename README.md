@@ -54,4 +54,4 @@
 
  ![Subarna's GitHub stats](https://subarnakhadka.vercel.app/api?username=SubarnaKhadka&count_private=true&show_icons=true&theme=tokyonight&hide_border=true&border_radius=20) &emsp; &emsp;
 
- <img src="https://github-readme-stats.vercel.app/api/top-langs?username=SubarnaKhadka&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=false" height="220" alt="languages graph"  />
+![Top Langs](https://subarnakhadka.vercel.app/api/top-langs/?username=SubarnaKhadka&theme=tokyonight&layout=compact&hide_border=true&border_radius=20)

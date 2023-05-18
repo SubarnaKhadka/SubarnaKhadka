@@ -51,6 +51,7 @@
   
 </div>
 <br/>
-  <img src="https://subarnakhadka.vercel.app?username=SubarnaKhadka&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=false" height="220" alt="stats graph"  />
+
+ ![Subarna's GitHub stats](https://subarnakhadka.vercel.app/api?username=SubarnaKhadka&count_private=true&show_icons=true&theme=tokyonight&hide_border=true&border_radius=20) &emsp; &emsp;
 
  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=SubarnaKhadka&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=false" height="220" alt="languages graph"  />

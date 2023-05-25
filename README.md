@@ -8,48 +8,22 @@
 
 
 <h1 align="left"> ~ Language and tools ~ </h1> 
-<table><tr><td valign="top" width="40%">
 
 ### Frontend  
-<div align="center" > 
+<div align="left" > 
   
-  ![My Skills](https://skillicons.dev/icons?i=html,css,sass,js,ts,figma,react,redux,nextjs,materialui&perline=5)
+  ![My Skills](https://skillicons.dev/icons?i=html,css,sass,js,ts,figma,react,redux,nextjs,materialui)
   
  <img  src="https://profilinator.rishav.dev/skills-assets/chakraui.png" alt="Chakra UI" height="50" />
   <img  height="50"  width="50" src="https://seeklogo.com/images/R/react-query-logo-1340EA4CE9-seeklogo.com.png"  alt="react-query" />
                                                                                                    
 </div>
 
-</td><td valign="top" width="30%">
-
-
 
 ### Backend  
-<div align="center"> 
   
-  ![My Skills](https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,go&perline=3)
+  ![My Skills](https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,go)
                                                                                                      
-</div>
-
-</td><td valign="top" width="30%">
-
-
-
-### DevOps  
-<div align="center" > 
-  
-  ![My Skills](https://skillicons.dev/icons?i=bash,git,aws,docker,netlify&perline=3)
-                                                                                                     
-</div>
-
-</td></tr></table>  
-
- <div>
-  <h3> MOST FAVORITE : </h3>
-  
-   [![My Skills](https://skillicons.dev/icons?i=js,cpp)](https://skillicons.dev)
-  
-</div>
 <br/>
 
  ![Subarna's GitHub stats](https://subarnakhadka.vercel.app/api?username=SubarnaKhadka&count_private=true&show_icons=true&theme=tokyonight&hide_border=true&border_radius=20) &emsp; &emsp;
